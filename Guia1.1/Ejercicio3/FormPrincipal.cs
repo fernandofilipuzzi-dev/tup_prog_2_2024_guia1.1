@@ -36,5 +36,10 @@ namespace Ej6_SistemaPeaje
                 peaje.RegistrarResumenDia(dia, cantidadVehiculos);
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
